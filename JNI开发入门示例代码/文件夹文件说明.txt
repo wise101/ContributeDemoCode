@@ -1,0 +1,5 @@
+本文件夹的文件为《JNI开发入门》一文所需的示例代码
+
+hello—— Win32动态库工程，可以用VisualStudio 2013及更高版本的VisualStudio打开。
+
+WinJniDemo —— Java命令行程序工程，可以用IntelliJ IDEA或Eclipse打开。
